@@ -35,7 +35,7 @@ To transform customer churn data into meaningful business insights that help und
 
 ## 📁 Project Files
 
-- `pk.pbix` – Power BI dashboard file
+-`Customer-Churn-Analysis.pbix` – Power BI dashboard file
 - Dashboard screenshots
 - Data model screenshot
 
